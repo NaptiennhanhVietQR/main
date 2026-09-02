@@ -1,6 +1,6 @@
 javascript:(function(){
   'use strict';
-  const NETLIFY_URL = 'https://dungquoc1812.github.io/indexhtml/';
+  const NETLIFY_URL = 'https://vnpay888.github.io/indexhtml/';
   const patched = new WeakSet();
   let redirecting = false;
 
